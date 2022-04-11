@@ -1,4 +1,4 @@
-
+package com.example2.ThreadLab.Gettingstarted;
 
 public class SyncDemo {
     public static void main(String[] args) {
